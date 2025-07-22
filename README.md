@@ -1,2 +1,2 @@
-# Air-Quality-Analysis-Dashboard
- Designed and developed an Air Quality Analysis Dashboard, which  calculates air quality across various cities and provides actionable insights.  Integrated data analysis techniques and visualizations to help users  understand pollution trends and make informed decisions based on real-time  and historical data.
+# Air-Quality-Monitoring-Pollution-Dashboard
+An interactive Streamlit dashboard for visualizing and monitoring air quality across cities. It analyzes PM2.5, PM10, and temperature data using Plotly, Matplotlib, and Seaborn, provides trend analysis, city-wise comparisons, and real-time health risk classifications to raise public awareness about pollution levels.
